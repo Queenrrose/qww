@@ -1,0 +1,86 @@
+{
+  "prefix": "qq",
+  
+  "welcomeRoomId": "1248589978229936180",
+
+  "rulesbackground": "https://cdn.discordapp.com/attachments/1239739793408266320/1240073630277304410/EvoBot-GeMk8pYiA.gif?ex=66468d90&is=66453c10&hm=4d044027638888736749bfbeaee68cf4af85a70d9b5cadb0a25eed9dcf7e7214&",
+  
+  "rankbanner": "rank3.png",
+  
+  "wlecomeruleschannel": "1248601609643098184",
+  "wlecomeruleschannel2": "1248592523841245237",
+  
+  "timechannelID": "1250275984893022278",
+  "timemessageID": "1250463812033843311",
+  "timeguildID": "1220897531047972935",
+  
+  "suggestionschannel": "1250407476323422268",
+  
+  "claimPermissionRoleId": "1240111350865465385",
+  
+  "welcomeLogChannelId": "1250405802598994086",
+  "logChannelId": "1250275984893022278",
+  "TicketReportChannelId": "1250275984893022278",
+  "ServerReportChannelId": "1250275984893022278",
+  "TicketSaveChannelId": "1250275984893022278",
+  "levelUpChannelId": "1250405749126074439",
+  
+  "avatar_id": "1250279391070519394",
+  "bot_id": "1250279390504419369",
+  "channel_info_id": "1250279390940762154",
+  "clear_id": "1250279390940762155",
+  "edit_message_id": "1250279390940762156",
+  "emoji_list_id": "1250279390940762157",
+  "member_list_id": "1250279390940762159",
+  "message_info_id": "1250279390940762160",
+  "ping_id": "1250279390940762161",
+  "role_info_id": "1250279390940762162",
+  "role_list_id": "1250279390940762163",
+  "say_id": "1250279391070519387",
+  "server_banner_id": "1250279391070519389",
+  "server_info_id": "1250279391070519391",
+  "tax_id": "1250279391070519392",
+  "test_welcome_id": "1250488289505448083",
+  "user_banner_idd": "1250279391070519395",
+  "user_info_id": "1250279391070519396",
+  
+    "categoryIDs": {
+    "ticket_1": "1250405114200457247",
+    "ticket_2": "1250405114200457247",
+    "ticket_3": "1250405114200457247",
+    "ticket_4": "1250405114200457247",
+    "ticket_5": "1250405114200457247",
+    "ticket_6": "1250405114200457247"
+  },
+  "selectMenuOptions": [
+    {
+      "label": "🎫Support",
+      "value": "ticket_1",
+      "photopanelticket": "https://cdn.discordapp.com/attachments/1239739793408266320/1240073630277304410/EvoBot-GeMk8pYiA.gif?ex=666a2610&is=6668d490&hm=45a61d9782b6cc7cd38dbf242886b649268ea5fa8f4753165299364db360688d&",
+      "paneldic": "> **الرجاء كتابة الإستبيان الاتي**\n\n\n**الاسم : **\n\n**العمر : **\n\n**السيرفر اللي جاي منه : **\n\n**صوره لرتبك :**",
+      "rolesupport": "1240111350865465385",
+      "roleticketid": "1240111350865465385",
+      "emoji": "<:icons8discordmoderatorprogramalu:1229007155089244160>"
+    },
+    {
+      "label": "🎫Conten・creator",
+      "value": "ticket_2",
+      "photopanelticket": "https://cdn.discordapp.com/attachments/1239739793408266320/1240073630277304410/EvoBot-GeMk8pYiA.gif?ex=666a2610&is=6668d490&hm=45a61d9782b6cc7cd38dbf242886b649268ea5fa8f4753165299364db360688d&",
+      "paneldic": "> **الرجاء كتابة الإستبيان الاتي**\n\n\n**الاسم : **\n\n**العمر : **\n\n**السيرفر اللي جاي منه : **\n\n**صوره لرتبك :**",
+      "rolesupport": "1240111350865465385",
+      "roleticketid": "1240111350865465385",
+      "emoji": "<:yescheck:1228616254194061365>"
+    },
+    {
+      "label": "🎫staff",
+      "value": "ticket_3",
+      "photopanelticket": "https://cdn.discordapp.com/attachments/1239739793408266320/1240073630277304410/EvoBot-GeMk8pYiA.gif?ex=666a2610&is=6668d490&hm=45a61d9782b6cc7cd38dbf242886b649268ea5fa8f4753165299364db360688d&",
+      "paneldic": "> **الرجاء كتابة الإستبيان الاتي**\n\n\n**الاسم : **\n\n**العمر : **\n\n**السيرفر اللي جاي منه : **\n\n**صوره لرتبك :**",
+      "rolesupport": "1240111350865465385",
+      "roleticketid": "1240111350865465385",
+      "emoji": "<:7697charm:1229651489757331617>"
+    }
+  ]
+}
+
+
